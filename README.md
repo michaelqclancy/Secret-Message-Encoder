@@ -14,10 +14,10 @@
 
  I learned that while principles of code are the same, different languages require different levels of care and mindfulness to ensure the code operates as intended - even if some parts of code may look the same. Some parts may also need to be written entirely due to a lack of support for language features.
 
- ## Setup
+## Setup
 
-The project can be download and run easily by opening the app_secret.html file. It will open in your default browser.
+ The project can be download and run easily by opening the app_secret.html file. It will open in your default browser.
 
 ## Instructions
 
-Type code into the first text box. Selecting "Encode Message" will create encoded text from the string. Inversely, users may type text in the bottom field, and select "Decode Text", which will reveal the hidden message.
+ Type text into the first text box. Selecting "Encode Message" will create encoded text from the text. Inversely, users may input encoded text in the bottom field, and select "Decode Text", which will reveal the hidden message.
